@@ -275,12 +275,9 @@ footer {
     .div-container{
         flex-direction: column;
         align-items: center;
+        justify-content:flex-start;
+        align-items: flex-start;
     }
-    .centered-div {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-}
 }
 
 /* Make canvas cover the full screen */
