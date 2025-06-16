@@ -95,8 +95,8 @@ nav a:hover {
 
 /* Main */
 main {
-    padding: 3rem 1.5rem;
-    padding-left: 5rem;
+    padding: 3rem 3rem;
+/*     padding-left: 5rem; */
     max-width: 1300px;
     margin: auto;
 }
