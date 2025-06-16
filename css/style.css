@@ -107,7 +107,12 @@ main {
     gap: 2rem;
     /* margin-top: 2rem; */
 }
-
+.centered-div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
 .contact-info,
 .contact-form {
     background-color: #1b1b1b;
@@ -271,6 +276,12 @@ footer {
         flex-direction: column;
         align-items: center;
     }
+    .centered-div {
+    display: flex;
+    flex-direction: column;
+/*     align-items: center; */
+    justify-content: center;
+}
 }
 
 /* Make canvas cover the full screen */
