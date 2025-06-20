@@ -1,3 +1,4 @@
+/* Global Styles */
 * {
     box-sizing: border-box;
     scroll-behavior: smooth;
@@ -278,6 +279,7 @@ footer {
     .div-container{
         flex-direction: column;
         align-items: center;
+        
     }
     .centered-div {
     display: flex;
@@ -300,3 +302,4 @@ canvas {
     pointer-events: none;
 }
 /*  */
+
